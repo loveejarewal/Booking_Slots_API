@@ -1,4 +1,4 @@
-#Firstly you need to install some depencies to run the code
+#Firstly you need to install some depencies to run the code: 
 npm init, 
 npm i express,  
 npm i mysql,  
