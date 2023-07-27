@@ -57,7 +57,7 @@ connection.query('select * from slots where (? between start_time and end_time )
 })
 
 
-// this is the port where we run this code 
+// using port where we run this code 
 const port = 4000;
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
